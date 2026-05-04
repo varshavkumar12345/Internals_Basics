@@ -1,7 +1,7 @@
 {
   "registered_model_name": "mergegate-review-turnaround-hours-predictor",
   "version": 1,
-  "run_id": "6917adcfdb204c34b8333f7e617722f1",
+  "run_id": "f00aa37634ea47a5a775927dbf971ba6",
   "source_metric": "rmse",
   "source_metric_value": 2.2995
 }
