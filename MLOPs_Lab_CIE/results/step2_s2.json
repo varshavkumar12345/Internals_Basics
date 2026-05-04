@@ -1,0 +1,13 @@
+{
+  "search_type": "random",
+  "n_folds": 5,
+  "total_trials": 18,
+  "best_params": {
+    "n_estimators": 300,
+    "max_depth": 7,
+    "min_samples_split": 4
+  },
+  "best_mae": 2.2998,
+  "best_cv_mae": 4.4781,
+  "parent_run_name": "tuning-mergegate"
+}

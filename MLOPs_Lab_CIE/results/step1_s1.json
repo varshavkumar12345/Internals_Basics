@@ -1,0 +1,18 @@
+{
+  "experiment_name": "mergegate-review-turnaround-hours",
+  "models": [
+    {
+      "name": "Ridge",
+      "mae": 3.6886,
+      "rmse": 4.5162
+    },
+    {
+      "name": "RandomForest",
+      "mae": 1.871,
+      "rmse": 2.2995
+    }
+  ],
+  "best_model": "RandomForest",
+  "best_metric_name": "rmse",
+  "best_metric_value": 2.2995
+}
